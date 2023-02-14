@@ -1,4 +1,4 @@
-# second attempt at commit
+# Third attempt at commit.  First two times, I had generated the AZURE_CREDENTIALS json data without including the --sdk-auth flag
 name: eShopOnWeb Build and Test
 
 #Triggers (uncomment line below to use it)
